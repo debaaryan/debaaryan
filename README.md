@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/37054647/191934617-ec802b88-6355-44bb-ab98-004a92b7ecd2.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/37054647/191934617-ec802b88-6355-44bb-ab98-004a92b7ecd2.gif" width="100%"> -->
 
-### Hello, I'm Debanjan!  <img src="https://user-images.githubusercontent.com/37054647/212605052-aa190b3c-b209-4d0f-b4c3-63a8f26de6af.gif" width="30px">
+<!-- ### Hello, I'm Debanjan!  <img src="https://user-images.githubusercontent.com/37054647/212605052-aa190b3c-b209-4d0f-b4c3-63a8f26de6af.gif" width="30px"> -->
 
 
 - 💡🖥🚀🌈 I like to solve problems to make people's lives easier
