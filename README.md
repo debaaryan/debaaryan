@@ -29,9 +29,9 @@
 <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
 <!-- https://getbootstrap.com,  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bitsower&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Bitsower" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Realdeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Realdeb" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bitsower&show_icons=true&count_private=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Bitsower Readme Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Realdeb&show_icons=true&count_private=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Realdeb Readme Stats" /></p>
 
 <!-- [![](http://github-readme-streak-stats.herokuapp.com?user=gigazen&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) -->
 
