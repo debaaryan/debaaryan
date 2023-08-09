@@ -37,9 +37,10 @@
 <!-- https://getbootstrap.com,  https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg -->
 
 <br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Realdeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Realdeb" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Realdeb&show_icons=true&count_private=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Realdeb Readme Stats" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Realdeb&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Realdeb" /></p>
 
 <!-- [![](http://github-readme-streak-stats.herokuapp.com?user=gigazen&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) -->
 
