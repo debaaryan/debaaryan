@@ -1,7 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/37054647/191934617-ec802b88-6355-44bb-ab98-004a92b7ecd2.gif" width="100%"> -->
 
 <!-- ### Hello, I'm Debanjan!  <img src="https://user-images.githubusercontent.com/37054647/212605052-aa190b3c-b209-4d0f-b4c3-63a8f26de6af.gif" width="30px"> -->
-<h3 align="center">👋 Hi, I am Deb. A Detail-oriented Front-end Web Developer.</h3>
+<h3 align="center">👋 Hi, I am Deb. A detail-oriented Front-end Web Developer.</h3>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=realdeb&label=Profile%20views&color=0e75b6&style=flat" alt="Deb Anjan" /> </p> -->
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
