@@ -8,7 +8,7 @@
 <br><br>
 - 💡🚀🌈 I like to solve problems to make people's lives easier
 - 📸🖼 I’m currently working on a photo sharing app
-- 🏎 I'm on track to expand my knowledge in front-end, back-end, systems design and architecture.
+- 🏎 I'm on track to expand my knowledge in front-end, back-end, systems design and architecture
 <!-- - 📧📮 How to reach me: debanjanb01234@gmail.com -->
 <!-- - ⚡ Fun fact: My dog name is Leo -->
 
