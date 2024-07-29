@@ -1,7 +1,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/37054647/191934617-ec802b88-6355-44bb-ab98-004a92b7ecd2.gif" width="100%"> -->
 
 <!-- ### Hello, I'm Debanjan!  <img src="https://user-images.githubusercontent.com/37054647/212605052-aa190b3c-b209-4d0f-b4c3-63a8f26de6af.gif" width="30px"> -->
-<h3 align="center">👋 Hi, I am Deb. I am a detail-oriented Front-end Web Developer.</h3>
+<h3 align="center">👋 Hi, I am Deb. I am a detail-oriented Node.js Backend Developer.</h3>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=realdeb&label=Profile%20views&color=0e75b6&style=flat" alt="Deb Anjan" /> </p> -->
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
@@ -38,9 +38,9 @@
 
 <br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=debaaryan&show_icons=true&count_private=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="debaaryan Readme Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gigazen&show_icons=true&count_private=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="gigazen Readme Stats" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debaaryan&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="debaaryan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigazen&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="gigazen" /></p>
 
 <!-- [![](http://github-readme-streak-stats.herokuapp.com?user=gigazen&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) -->
 
