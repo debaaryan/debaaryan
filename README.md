@@ -7,7 +7,7 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <br><br>
 - 💡🚀🌈 I like to solve problems to make people's lives easier
-- 📸🖼 I’m currently working on a photo sharing app
+- 📸🖼 I’m currently working on a productivity app
 - 🏎 I'm on track to expand my knowledge in front-end, back-end, systems design and architecture
 <!-- - 📧📮 How to reach me: debanjanb01234@gmail.com -->
 <!-- - ⚡ Fun fact: My dog name is Leo -->
